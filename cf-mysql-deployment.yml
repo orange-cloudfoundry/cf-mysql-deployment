@@ -147,9 +147,8 @@ variables:
 
 releases:
 - name: cf-mysql
-  url: https://https://github.com/orange-cloudfoundry/cf-mysql-release/releases/download/37.1.0/cf-mysql-37.1.0.tgz
-  version: 37.1.0
-  sha1: 3bb8bbda76a045b180bc84fcec32ca59e1f578ec
+  url: https://https://github.com/orange-cloudfoundry/cf-mysql-release/releases/download/38.0.0/cf-mysql-38.0.0.tgz
+  version: 38.0.0
 - name: bpm
   url: ""
   version: latest
